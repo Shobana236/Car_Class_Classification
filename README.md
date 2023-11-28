@@ -1,8 +1,5 @@
 # Car_Class_Classification
-
-## Final project 2 - Guvi
-
-The following are the broad tasks to be performed:
+The following are the tasks performed:
 - Load the data into your code
 - Keep 20% of the data aside as test data.
 - Apply the required preprocessing techniques on the data.
